@@ -19,7 +19,7 @@
 
 # SUAVE Suapp Examples
 
-This repository contains several [examples and useful references](/examples/) for building Suapps!
+This repository contains several [examples and useful references](/examples/) for building Suapps
 
 ---
 
